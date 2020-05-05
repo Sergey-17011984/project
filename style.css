@@ -1,0 +1,22 @@
+.list .list-item a{
+    color:red;
+}
+body {
+    background: rosybrown;
+}
+.blog h2 {
+    text-align: center;
+    color: rgb(43, 40, 38);
+
+}
+div {
+    background-color: seagreen;
+    font-size: larger;
+    font-family: Arial, Helvetica, sans-serif;
+}
+.contacts h2 {
+    text-align: center;
+}
+footer span {
+    background-color: slateblue;
+}
